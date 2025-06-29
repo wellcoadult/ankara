@@ -1,36 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
-    <product>
-        <product_code>ABC123</product_code>
-        <product_name>Wellco Vibrasyonlu Jel Mastürbatör</product_name>
-        <barcode>1234567890123</barcode>
-        <price>349.90</price>
-        <stock>25</stock>
-        <brand>Wellco</brand>
-        <currency>TRY</currency>
-        <category>Adult Ürünler/Mastürbatör</category>
-        <description><![CDATA[
-            Yüksek kaliteli silikon malzeme ile üretilmiş, vibrasyon özelliği ile daha gerçekçi deneyim sunan mastürbatör. Ergonomik yapısı sayesinde kolay kullanım sağlar.
-        ]]></description>
-        <images>
-            <image>https://seninsiten.com/urunler/abc123-1.jpg</image>
-            <image>https://seninsiten.com/urunler/abc123-2.jpg</image>
-        </images>
-    </product>
-    <product>
-        <product_code>XYZ789</product_code>
-        <product_name>Wellco Anal Plug Seti 3'lü - Siyah</product_name>
-        <barcode>9876543210987</barcode>
-        <price>219.50</price>
-        <stock>15</stock>
-        <brand>Wellco</brand>
-        <currency>TRY</currency>
-        <category>Adult Ürünler/Anal Ürünler</category>
-        <description><![CDATA[
-            Farklı boyutlarda 3 parçadan oluşan anal plug seti, başlangıç seviyesinden ileri seviyeye kadar her kullanıcıya uygundur. Esnek ve pürüzsüz yapısı ile güvenli kullanım sağlar.
-        ]]></description>
-        <images>
-            <image>https://seninsiten.com/urunler/xyz789-1.jpg</image>
-        </images>
-    </product>
+<product>
+<product_code>Sens-M065</product_code>
+<product_name>Şarjlı Gül Vibratör ve Penis Halkası – Çift Motorlu, Klitoral ve G-Nokta Uyarımı</product_name>
+<barcode>8690000000011</barcode>
+<price>329.90</price>
+<stock>20</stock>
+<brand>Wellco</brand>
+<currency>TRY</currency>
+<category>Adult Ürünler/Vibratör</category>
+<description>
+<![CDATA[ Gül formunda tasarlanmış bu özel vibratör, hem klitoral hem de G-nokta uyarımı için çift motorlu güçlü titreşim sunar. Ürünle birlikte gelen penis halkası, testis ve penis etrafında ekstra sıkılık ve titreşim hissi sağlar. Su geçirmez özelliktedir ve USB ile şarj edilir. Estetik ve ergonomik tasarımıyla çiftler için uygundur. ]]>
+</description>
+<vat>20</vat>
+<images>
+<image>https://erotikshoptoptan.com/image/cache/data/products/Sens-M065/1-800x800.jpg</image>
+<image>https://erotikshoptoptan.com/image/cache/data/products/Sens-M065/2-800x800.jpg</image>
+<image>https://erotikshoptoptan.com/image/cache/data/products/Sens-M065/3-800x800.jpg</image>
+<image>https://erotikshoptoptan.com/image/cache/data/products/Sens-M065/4-800x800.jpg</image>
+<image>https://erotikshoptoptan.com/image/cache/data/products/Sens-M065/5-800x800.jpg</image>
+</images>
+</product>
 </products>
