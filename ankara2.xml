@@ -1,37 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
+
   <product>
-    <product_code>Sens-M065</product_code>
-    <product_name>Gül Vibratör ve Penis Halkası – Çift Motorlu Titreşim | RosePlus</product_name>
+    <id>10001</id>
+    <title>Gül Vibratör ve Penis Halkası – Çift Motorlu Titreşim | RosePlus</title>
+    <description>Gül formunda özel tasarlanmış bu çift motorlu vibratör, hem klitoral hem G-noktasına yoğun uyarım sağlar. Penis halkası ve testis desteği ile performansı artırır. Sessiz çalışır, su geçirmezdir ve USB ile şarj edilir. Estetik tasarımıyla hem bireysel hem çift kullanımına uygundur.</description>
+    <sku>Sens-M065</sku>
+    <brand>Wellco</brand>
     <barcode>8690000000011</barcode>
     <price>1720</price>
-    <stock>27</stock>
-    <brand>Wellco</brand>
-    <currency>TRY</currency>
     <category>Adult Ürünler/Vibratör</category>
-    <vat>20</vat>
-    <image>https://cdn.myikas.com/images/9ffd3fd1-21e3-4131-b247-fbced6e455e5/85f3a494-1530-42c2-bb0c-87cd32ae0e66/image_1950.webp</image>
-    <image2>https://cdn.myikas.com/images/9ffd3fd1-21e3-4131-b247-fbced6e455e5/4e647ff5-3409-4b1f-bce1-457973573da2/image_1950.webp</image2>
-    <image3>https://cdn.myikas.com/images/9ffd3fd1-21e3-4131-b247-fbced6e455e5/c9b5e5d0-e54e-4acd-a233-0ac77ad1a2e6/image_1950.webp</image3>
-    <description><![CDATA[🇹🇷 Gül formunda özel tasarlanmış bu çift motorlu vibratör, hem klitoral hem G-noktasına yoğun uyarım sağlar. Penis halkası ve testis desteği ile performansı artırır. Sessiz çalışır, su geçirmezdir ve USB ile şarj edilir. Estetik tasarımıyla hem bireysel hem çift kullanımına uygundur.
-🇬🇧 Dual-motor rose-shaped vibrator stimulates both the clitoris and G-spot intensely. Comes with a penis ring for better erection. Waterproof, USB rechargeable, and quiet – ideal for solo or couple use.
-🇷🇺 Вибратор в форме розы с двойным мотором для стимуляции клитора и точки G. Кольцо усиливает эрекцию. Водонепроницаемый, бесшумный и перезаряжаемый.
-🇸🇦 محفز وردي الشكل بمحرك مزدوج لتحفيز البظر ونقطة G. مع حلقة دعم للعضو الذكري. مقاوم للماء ويُشحن عبر USB ويعمل بهدوء.
-🇮🇷 ویبراتور با طراحی گل رز و موتور دوتایی برای تحریک کلیتوریس و نقطه G. دارای حلقه برای تقویت نعوظ. ضد آب و شارژی.]]></description>
+    <image_link>https://cdn.myikas.com/images/9ffd3fd1-21e3-4131-b247-fbced6e455e5/85f3a494-1530-42c2-bb0c-87cd32ae0e66/image_1950.webp</image_link>
+    <image_link2>https://cdn.myikas.com/images/9ffd3fd1-21e3-4131-b247-fbced6e455e5/4e647ff5-3409-4b1f-bce1-457973573da2/image_1950.webp</image_link2>
+    <image_link3>https://cdn.myikas.com/images/9ffd3fd1-21e3-4131-b247-fbced6e455e5/c9b5e5d0-e54e-4acd-a233-0ac77ad1a2e6/image_1950.webp</image_link3>
+    <stock>31</stock>
+    <KDV>20</KDV>
   </product>
 
   <product>
-    <product_code>Sens-S349</product_code>
-    <product_name>Doremi Klitoris ve Meme Masaj Vibratörü</product_name>
-    <barcode>8690000000099</barcode>
-    <price>1303</price>
-    <stock>20</stock>
+    <id>10002</id>
+    <title>Doremi Şarjlı Çoklu Uyarılma Klitoris ve Meme Masaj Vibratörü</title>
+    <description>Klitoris, meme ucu ve erojen bölgelerde çok yönlü uyarım sağlayan Doremi vibratör; sessiz motoru, ergonomik yapısı ve USB şarj özelliğiyle dikkat çeker. 9 farklı titreşim seviyesi ile maksimum hassasiyet sunar.</description>
+    <sku>Sens-S349</sku>
     <brand>Wellco</brand>
-    <currency>TRY</currency>
+    <barcode>8690000000015</barcode>
+    <price>1303</price>
     <category>Adult Ürünler/Vibratör</category>
-    <vat>20</vat>
-    <image>https://example.com/image1.jpg</image>
-    <description><![CDATA[Doremi şarjlı masaj vibratörü, 9 titreşim modu, sessiz motor, USB şarj. Klitoris ve meme başı için uygundur.]]></description>
+    <image_link>https://cdn.myikas.com/images/9ffd3fd1-21e3-4131-b247-fbced6e455e5/86dfe364-8ca1-46a0-b49b-25a974d92b36/image_1950.webp</image_link>
+    <image_link2>https://cdn.myikas.com/images/9ffd3fd1-21e3-4131-b247-fbced6e455e5/6ad4b27b-5c2a-4eca-ab74-570c4b28b559/image_1950.webp</image_link2>
+    <image_link3>https://cdn.myikas.com/images/9ffd3fd1-21e3-4131-b247-fbced6e455e5/c18bd1d7-bad2-422b-b3bc-ad8221acd1a1/image_1950.webp</image_link3>
+    <stock>20</stock>
+    <KDV>20</KDV>
   </product>
 
 </products>
