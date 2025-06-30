@@ -3310,8 +3310,8 @@ Leaféa, su bazlı destekleyici ürünlerle birlikte kullanılabilir. Her kullan
 <b>Gizli Paketleme:</b><br>
 Tüm siparişler sade ve içeriksiz paketlerde gönderilir. Ürün bilgisi dış ambalajda yer almaz. Mahremiyetinize en üst düzeyde saygı gösterilir.<br><br>
 
-<i>EN:</i> Rechargeable & waterproof leaf-shaped clitor@l vibrator for gentle massage.<br>
-<i>DE:</i> Wiederaufladbarer & wasserdichter Klitorisstimulator in Blattform.<br>
+<i>EN:</i> Rechargeable waterproof leaf-shaped clitor@l vibrator for gentle massage.<br>
+<i>DE:</i> Wiederaufladbarer wasserdichter Klitorisstimulator in Blattform.<br>
 <i>FR:</i> Stimulateur clitoridien étanche et rechargeable en forme de feuille.<br>
 <i>RU:</i> Водонепроницаемый клиторальный вибратор в форме листа.<br>
 <i>AR:</i> محفز للبظر على شكل ورقة، مقاوم للماء وقابل للشحن.<br>
@@ -3330,4 +3330,47 @@ Tüm siparişler sade ve içeriksiz paketlerde gönderilir. Ürün bilgisi dış
   <stock>20</stock>
   <KDV>20</KDV>
 </product>
+  <product>
+  <id>10081</id>
+  <title>Dil Vibratör – Göğüs &amp; Klitor@l Uyarıcı, Güçlü Titreşimli, Su Geçirmez – Blossomé</title>
+  <description><![CDATA[
+<b>Yoğun Hisler İçin Blossomé:</b><br>
+Blossomé, esnek silikon dili ve yüksek güçlü motoru ile göğüs ve klitor@l bölgelerde odaklı uyarım sağlar. Masaj etkili ucu sayesinde ciltle doğal bir temas hissi yaratır. Ürün, özellikle hassas bölgelerde titreşim ile masaj isteyen kullanıcılar için geliştirilmiştir.<br><br>
+
+<b>Özellikler:</b><br>
+– Güçlü motor ve 7 farklı titreşim modu<br>
+– Esnek, dil benzeri silikon uç<br>
+– Göğüs ve klitor@l bölgeye özel kullanım<br>
+– IPX6 su geçirmezlik seviyesi<br>
+– USB şarjlı – kablo kutuya dahildir<br>
+– Yumuşak medikal sınıf silikon kaplama<br>
+– Boyut: 11.5 x 4.2 x 3.5 cm<br><br>
+
+<b>Kullanım Talimatı:</b><br>
+Blossomé, vücut ile temas öncesi temizlenmeli ve tercihen su bazlı ürünlerle birlikte kullanılmalıdır. Her kullanımdan sonra ılık su ve nötr sabunla temizlenerek kuru bezle silinmelidir. Seyahatlerde de kolayca taşınabilir, sessiz çalıştığı için mahrem kullanıma uygundur.<br><br>
+
+<b>Mahremiyetiniz Bizim İçin Önemli:</b><br>
+Wellco olarak, tüm ürünlerimizi sade ve içerik belirtmeyen ambalajlarla gönderiyoruz. Kargonuzda ürün ismi ya da içerik detayı yer almaz.<br><br>
+
+<i>EN:</i> Powerful tongue-shaped vibrator for clitor@l &amp; breast massage.<br>
+<i>DE:</i> Zungenförmiger Vibrator für Brust- und Klitorisstimulation.<br>
+<i>FR:</i> Vibromasseur en forme de langue pour le massage du clitoris et des seins.<br>
+<i>RU:</i> Вибратор в форме языка для массажа груди и клитора.<br>
+<i>AR:</i> محفز على شكل لسان لتدليك البظر والثديين.<br>
+<i>FA:</i> ویبراتور قوی با طراحی زبان برای تحریک کلیتوریس و سینه.<br>
+  ]]></description>
+  <sku>Sens-Y4793</sku>
+  <brand>Wellco</brand>
+  <barcode>Sens-Y4793</barcode>
+  <price>720</price>
+  <category>Klitor@l Vibratörler</category>
+  <image_link>https://www.exotikiss.com/images/urunler/blossom-usb-sarjli-su-gecir-542_1.jpg</image_link>
+  <image_link2>https://www.exotikiss.com/images/urunler/blossom-usb-sarjli-su-gecir-542_2.jpg</image_link2>
+  <image_link3>https://www.exotikiss.com/images/urunler/blossom-usb-sarjli-su-gecir-542_3.jpg</image_link3>
+  <image_link4>https://www.exotikiss.com/images/urunler/blossom-usb-sarjli-su-gecir-542_4.jpg</image_link4>
+  <image_link5>https://www.exotikiss.com/images/urunler/blossom-usb-sarjli-su-gecir-542_5.jpg</image_link5>
+  <stock>20</stock>
+  <KDV>20</KDV>
+</product>
+
 </products>
