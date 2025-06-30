@@ -1843,4 +1843,47 @@ Kullanımdan önce cihaz tam şarj edilmelidir. Ürün iç çamaşırı ile birl
   <stock>20</stock>
   <KDV>20</KDV>
 </product>
+  <product>
+  <id>10043</id>
+  <title>An@l Masaj Vibratörü – Kumandalı, Perine Prost@t Uyarıcı – Optimax</title>
+  <description><![CDATA[
+<b>Wellco Optimax An@l Masaj Vibratörü</b><br><br>
+
+Wellco’nun gelişmiş teknolojisiyle üretilen <i>Optimax</i>, hem an@l hem de prost@t bölgesine özel uyarım sağlayan çok fonksiyonlu bir masaj cihazıdır. Ergonomik yapısı, sessiz çalışma sistemi ve kablosuz kumandasıyla, kullanıcıya hem mahremiyet hem de maksimum konfor sunar. Özellikle erkek anatomisine uygun tasarımı sayesinde, perine bölgesine baskı yaparken aynı zamanda iç bölgelerdeki prost@t noktasına etkili titreşim sağlar.<br><br>
+
+<b>Teknik Özellikler:</b><br>
+– Materyal: Medikal sınıf silikon, BPA içermez<br>
+– Titreşim Modları: 9 güçlü ritim<br>
+– Kontrol: Kablosuz uzaktan kumanda (5-10m menzil)<br>
+– Su Geçirmezlik: IPX7 standardında<br>
+– Şarj Süresi: 90 dakika<br>
+– Kullanım Süresi: 70-90 dakika<br>
+– Gürültü Seviyesi: ≤ 45 dB (neredeyse sessiz)<br><br>
+
+<b>Kullanım Önerisi:</b><br>
+İlk kez kullanacaklar için özel olarak tasarlanan kıvrımlı uç yapısı, nazikçe yerleşim sağlar. Kayganlaştırıcı (su bazlı) ile kullanımı önerilir. Kullanım sonrası ılık su ve uygun dezenfektan ile temizlenmeli, kuru bir bezle kurulanarak saklanmalıdır.<br><br>
+
+<b>Gizlilik:</b> Ürününüz, dışarıdan içeriği belli olmayacak şekilde gizli paketle gönderilir. Tüm süreçte mahremiyetinize %100 önem verilir.<br><br>
+
+<hr>
+<b>EN:</b> Wireless an@l massager for perine prost@t stimulation. Waterproof, discreet, ergonomic.<br>
+<b>DE:</b> Kabelloser An@lmassager für Perineum Prost@t. Wasserdicht ergonomisch.<br>
+<b>FR:</b> Vibromasseur an@l sans fil pour le périnée la prost@te. Étanche et discret.<br>
+<b>RU:</b> Беспроводной ан@льный массажер для промежности и прост@ты. Водонепроницаемый и удобный.<br>
+<b>AR:</b> محفز أن@لي لاسلكي لمنطقة العجان والبروست@اتا. مقاوم للماء وسري.<br>
+<b>FA:</b> ماساژور آن@ل بی‌سیم برای تحریک پرینه و پروست@ت. ضدآب و راحت.<br>
+  ]]></description>
+  <sku>Sens-S115-2</sku>
+  <barcode>Sens-S115-2</barcode>
+  <brand>Wellco</brand>
+  <category>An@l Ürünler</category>
+  <price>1480</price>
+  <image_link>https://www.exotikiss.com/images/urunler/optimus-rct-kablosuz-kumandal-442_1.jpg</image_link>
+  <image_link2>https://www.exotikiss.com/images/urunler/optimus-rct-kablosuz-kumandal-442_2.jpg</image_link2>
+  <image_link3>https://www.exotikiss.com/images/urunler/optimus-rct-kablosuz-kumandal-442_3.jpg</image_link3>
+  <image_link4>https://www.exotikiss.com/images/urunler/optimus-rct-kablosuz-kumandal-442_4.jpg</image_link4>
+  <image_link5>https://www.exotikiss.com/images/urunler/optimus-rct-kablosuz-kumandal-442_5.jpg</image_link5>
+  <stock>20</stock>
+  <KDV>20</KDV>
+</product>
 </products>
